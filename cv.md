@@ -24,8 +24,5 @@ I have been working as a lecturer in the planetarium for 14 years. I like my job
 * _Java Script (in  progress)_
 
 ## Languages:
-| language      | level     |
-| ------------- |-----------|
-| English       | B1        |
-| Russian       | native    |
-
+* __English__ - B1       
+* __Russian__ - native
